@@ -1,2 +1,2 @@
 # VR-Vorlesung
-Das ist unser Repo für VR
+Das ist unser Repo für VR.
